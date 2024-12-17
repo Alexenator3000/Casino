@@ -1,0 +1,29 @@
+D:\Yaschenko Aleksey\Casino\Casino\bin\Debug\net6.0\Casino.exe
+D:\Yaschenko Aleksey\Casino\Casino\bin\Debug\net6.0\Casino.deps.json
+D:\Yaschenko Aleksey\Casino\Casino\bin\Debug\net6.0\Casino.runtimeconfig.json
+D:\Yaschenko Aleksey\Casino\Casino\bin\Debug\net6.0\Casino.dll
+D:\Yaschenko Aleksey\Casino\Casino\bin\Debug\net6.0\Casino.pdb
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.csproj.AssemblyReference.cache
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.AssemblyInfoInputs.cache
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.AssemblyInfo.cs
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.csproj.CoreCompileInputs.cache
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.dll
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\refint\Casino.dll
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.pdb
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\Casino.genruntimeconfig.cache
+D:\Yaschenko Aleksey\Casino\Casino\obj\Debug\net6.0\ref\Casino.dll
+D:\C#\Casino\Casino\bin\Debug\net6.0\Casino.exe
+D:\C#\Casino\Casino\bin\Debug\net6.0\Casino.deps.json
+D:\C#\Casino\Casino\bin\Debug\net6.0\Casino.runtimeconfig.json
+D:\C#\Casino\Casino\bin\Debug\net6.0\Casino.dll
+D:\C#\Casino\Casino\bin\Debug\net6.0\Casino.pdb
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.AssemblyInfoInputs.cache
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.AssemblyInfo.cs
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.csproj.CoreCompileInputs.cache
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.dll
+D:\C#\Casino\Casino\obj\Debug\net6.0\refint\Casino.dll
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.pdb
+D:\C#\Casino\Casino\obj\Debug\net6.0\Casino.genruntimeconfig.cache
+D:\C#\Casino\Casino\obj\Debug\net6.0\ref\Casino.dll
